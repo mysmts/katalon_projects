@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Meu Perfil</name>
+   <tag></tag>
+   <elementGuidId>a6189c34-b1ed-4e24-92a0-e6cd84351ca9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='view']/div/div/div[2]/div/div/div[2]/ul/li[2]/div/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Meu Perfil&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b093b116-60eb-4e75-bca9-d697d0b90e59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>48fea0b8-5096-423d-9c60-2bbc5e627060</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/meu-perfil</value>
+      <webElementGuid>ee08950e-d092-4bf8-8b2d-f99334a441d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>   Meu Perfil</value>
+      <webElementGuid>bd41b8f5-cdbf-4b03-9a9a-f6f37d18bee0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;view&quot;)/div[@class=&quot;padding&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 push-md-2 col-md-8&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;box-tool&quot;]/ul[@class=&quot;nav&quot;]/li[@class=&quot;nav-item inline dropdown open&quot;]/div[@class=&quot;dropdown-menu dropdown-menu-scale pull-right&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>1d75a95f-56ac-4dd3-9973-080313de9bc2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='view']/div/div/div[2]/div/div/div[2]/ul/li[2]/div/a[2]</value>
+      <webElementGuid>822655bb-ca65-446c-980d-258bd879f897</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Meu Perfil')]</value>
+      <webElementGuid>e830dcc4-743c-446a-9e91-162464bbfc2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total de 5 favoritos.'])[1]/following::a[4]</value>
+      <webElementGuid>7a403315-647a-4a2c-bc1c-66fd388e43de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tabela de Favoritos'])[1]/preceding::a[1]</value>
+      <webElementGuid>62cea79f-329f-4891-b348-2d0cc42d7813</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/meu-perfil')])[2]</value>
+      <webElementGuid>93295430-31d2-486c-8710-f59c127e0bfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/a[2]</value>
+      <webElementGuid>2c8caabd-7376-4fbf-9327-17a9decf467b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/meu-perfil' and (text() = '   Meu Perfil' or . = '   Meu Perfil')]</value>
+      <webElementGuid>0b08a397-2f04-4197-94ec-86b4dfe87f07</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

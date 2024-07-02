@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Frmulas COGE</name>
+   <tag></tag>
+   <elementGuidId>a9fb8085-e57b-4e29-a868-fe150960bd10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div/ul/li[2]/div/span[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.dropdown-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Fórmulas COGE&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>add52eae-c3df-49bc-aaa6-45c7c356cd4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/relatorio-grafico/formula</value>
+      <webElementGuid>83f719c9-3fab-49fd-bb1d-f4a8fce9062f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>06dd2b6c-189c-4982-8117-333de88b3f27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Fórmulas COGE</value>
+      <webElementGuid>2115f2c2-701e-4059-8441-43918f2d6868</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;app-header navbar-md white box-shadow&quot;]/div[@class=&quot;navbar text-blue-hover&quot;]/ul[@class=&quot;nav navbar-nav pull-right&quot;]/li[@class=&quot;nav-item dropdown open&quot;]/div[@class=&quot;dropdown-menu pull-right dropdown-menu-scale&quot;]/span[2]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>dc783045-a406-4790-9b04-510f05255491</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div/ul/li[2]/div/span[2]/a</value>
+      <webElementGuid>42714bee-070f-42d2-b005-1ab45ae7c01d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Fórmulas COGE')]</value>
+      <webElementGuid>da3d0d8e-0ac5-4c2e-9b6a-8e63b7867af0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Relatórios Gráficos'])[1]/following::a[1]</value>
+      <webElementGuid>e7f84a6c-53e9-4815-bbfa-a8903824a324</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='®'])[1]/following::a[2]</value>
+      <webElementGuid>a94309ef-16a5-4f15-b00e-563efb3eb115</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indicadores'])[1]/preceding::a[1]</value>
+      <webElementGuid>c4d966f1-7e35-483c-b201-f51640df9d70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exportações'])[1]/preceding::a[2]</value>
+      <webElementGuid>dc07aa3e-e2da-4467-bdb0-785b51b67ff3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/relatorio-grafico/formula')]</value>
+      <webElementGuid>0e4655f5-946a-4894-acfd-addaff6f4cf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/a</value>
+      <webElementGuid>4888af7c-e9c6-44e7-b77b-84a48d70b1c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/relatorio-grafico/formula' and (text() = ' Fórmulas COGE' or . = ' Fórmulas COGE')]</value>
+      <webElementGuid>b6b17472-0b19-4f92-b7c7-b47e3d6c375b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

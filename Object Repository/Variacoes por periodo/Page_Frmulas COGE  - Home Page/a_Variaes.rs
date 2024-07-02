@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Variaes</name>
+   <tag></tag>
+   <elementGuidId>b1447739-3532-44bf-b35a-e34cd08bbd77</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div/ul/li[2]/div/span[6]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span:nth-of-type(6) > a.dropdown-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Variações&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0cdb1015-0abb-46f2-92b8-d75fe03040d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/exportacoes/variacoes</value>
+      <webElementGuid>40e1b1b2-f8ff-44e0-87ad-9068fc64acbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>9fd2b389-bdb8-40bf-b014-b31b9bb137f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Variações</value>
+      <webElementGuid>51b38632-2a68-4ca3-91d3-723bed9ac580</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;app-header navbar-md white box-shadow&quot;]/div[@class=&quot;navbar text-blue-hover&quot;]/ul[@class=&quot;nav navbar-nav pull-right&quot;]/li[@class=&quot;nav-item dropdown open&quot;]/div[@class=&quot;dropdown-menu pull-right dropdown-menu-scale&quot;]/span[6]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>0a2793a6-f1b9-4cd6-884c-c35691636616</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div/ul/li[2]/div/span[6]/a</value>
+      <webElementGuid>e0b53932-4c05-4a24-810d-cd445050ee02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Variações')]</value>
+      <webElementGuid>6f93eb09-ae4c-40e0-bd9d-5e90b093fc4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fórmulas Paramétricas'])[1]/following::a[1]</value>
+      <webElementGuid>9e4c84b0-e1b4-4184-9651-fc282df7e59a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exportações'])[1]/following::a[2]</value>
+      <webElementGuid>51a618d2-add3-47fb-b34e-658c51c07fab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Favoritos'])[1]/preceding::a[1]</value>
+      <webElementGuid>f6f3a7ce-ec7b-40ba-9934-e28711036b16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Todos'])[1]/preceding::a[1]</value>
+      <webElementGuid>778e93bd-3d85-464d-8269-eedd61ea5c42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Variações']/parent::*</value>
+      <webElementGuid>9c98584b-8a97-48ad-898f-63c0692a8c57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/exportacoes/variacoes')]</value>
+      <webElementGuid>5c529d75-8fe7-4291-90af-33fb534355d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[6]/a</value>
+      <webElementGuid>93ced897-2918-42d0-be61-d4ba40379df8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/exportacoes/variacoes' and (text() = ' Variações' or . = ' Variações')]</value>
+      <webElementGuid>d476ff5b-4ca4-4245-826c-8c861a4cfa18</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

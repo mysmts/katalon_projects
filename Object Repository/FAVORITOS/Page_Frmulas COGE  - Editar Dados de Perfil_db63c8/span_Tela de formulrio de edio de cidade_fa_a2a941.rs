@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Tela de formulrio de edio de cidade_fa_a2a941</name>
+   <tag></tag>
+   <elementGuidId>c2779b38-3bbc-44c3-95fc-1fa3890df67c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='view']/div/div/div[2]/div/div/div[2]/ul/li/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.fas.fa-arrow-left</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>47b63bc1-157f-4e35-9939-2f977848b0fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-arrow-left</value>
+      <webElementGuid>aaf13bbf-56fe-426a-99aa-cd1f3aa59e64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Voltar</value>
+      <webElementGuid>1bddbb03-6a2a-4d5c-8229-18f7d34c84e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;view&quot;)/div[@class=&quot;padding&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 push-md-2 col-md-8&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;box-tool&quot;]/ul[@class=&quot;nav&quot;]/li[@class=&quot;nav-item inline&quot;]/a[@class=&quot;nav-link&quot;]/span[@class=&quot;fas fa-arrow-left&quot;]</value>
+      <webElementGuid>5748f3da-3b6a-4466-a980-acb2e4d43375</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='view']/div/div/div[2]/div/div/div[2]/ul/li/a/span</value>
+      <webElementGuid>5e33f466-444b-4cd0-8ab2-0ab739d60684</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li/a/span</value>
+      <webElementGuid>292b9d1a-53da-4482-8500-63b0f9163b2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'Voltar']</value>
+      <webElementGuid>8959af1a-b5f5-4a0e-939c-65b2f8022439</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

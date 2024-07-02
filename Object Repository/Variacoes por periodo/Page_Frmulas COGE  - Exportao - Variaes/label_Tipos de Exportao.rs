@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Tipos de Exportao</name>
+   <tag></tag>
+   <elementGuidId>80ea2490-96e3-44b9-91ac-39ea58be0df5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='loadingForm']/div/div[2]/div/div/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Tipos de Exportação&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>feddab6c-0381-45b6-9a56-b39d7b85396f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>ExportTypes</value>
+      <webElementGuid>8db0892e-954d-43ed-8bda-96398919f7d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tipos de Exportação</value>
+      <webElementGuid>bc0faf65-f11d-4a7b-8a7a-39a9c24bdb04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;loadingForm&quot;)/div[@class=&quot;box&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;col-xs-6&quot;]/div[@class=&quot;form-group col-xs-12&quot;]/label[1]</value>
+      <webElementGuid>4b32245b-3f34-4b79-8479-ad0475bc5a90</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='loadingForm']/div/div[2]/div/div/div/label</value>
+      <webElementGuid>0e667804-0929-4e95-af9f-087b7d856299</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Formulário de Pesquisa'])[1]/following::label[1]</value>
+      <webElementGuid>b79c5879-4a65-433a-8fa7-3ab3c8e1fbae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selecione o período para o cálculo de variação.'])[1]/following::label[1]</value>
+      <webElementGuid>7b673b98-cf63-459c-865e-4c304c1d9018</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tela'])[1]/preceding::label[1]</value>
+      <webElementGuid>23f800b5-ad36-4107-b761-bc64380d637e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CSV'])[1]/preceding::label[3]</value>
+      <webElementGuid>6c11abce-a3e8-4eb0-9d80-6799d792d739</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tipos de Exportação']/parent::*</value>
+      <webElementGuid>19e82e38-048b-450d-865a-79f379603bd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>6d76fa7b-ba79-4599-9fe3-1f978f22f5e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Tipos de Exportação' or . = 'Tipos de Exportação')]</value>
+      <webElementGuid>2a61395d-456e-44f1-a4e4-7118127548d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

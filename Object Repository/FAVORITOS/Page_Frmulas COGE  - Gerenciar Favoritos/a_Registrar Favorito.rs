@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Registrar Favorito</name>
+   <tag></tag>
+   <elementGuidId>cdf0c6cb-9a8f-422d-9365-cef73d2e96de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='view']/div/div/div[2]/div/div/div[2]/ul/li[2]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.nav-item.inline.dropdown.open > div.dropdown-menu.dropdown-menu-scale.pull-right > a.dropdown-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Registrar Favorito&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>35f5fcf8-b698-4d74-aa1c-ef7134a609eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>ec22c3b8-d19f-4788-8bb1-a11d90e615f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/favoritos/registro</value>
+      <webElementGuid>386561c1-1c36-444e-a391-6f38ddd00904</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>   Registrar Favorito</value>
+      <webElementGuid>02ace7ce-599e-49ca-990b-78d87269986b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;view&quot;)/div[@class=&quot;padding&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 push-md-2 col-md-8&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;box-tool&quot;]/ul[@class=&quot;nav&quot;]/li[@class=&quot;nav-item inline dropdown open&quot;]/div[@class=&quot;dropdown-menu dropdown-menu-scale pull-right&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>87a3274e-7225-434d-bd62-f0de1e9a4afc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='view']/div/div/div[2]/div/div/div[2]/ul/li[2]/div/a</value>
+      <webElementGuid>29c98fb6-49e9-40f9-b83e-1df6e6e79c06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Registrar Favorito')]</value>
+      <webElementGuid>77592b5b-565b-4b3b-ad53-09148f2cae6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total de 4 favoritos.'])[1]/following::a[3]</value>
+      <webElementGuid>afbf4d36-1ffb-45c5-8c34-85a8ad12bf1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gerenciar Favoritos'])[1]/following::a[3]</value>
+      <webElementGuid>e43d900c-1fb6-4e73-b7b9-08b9bddc79da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/favoritos/registro')]</value>
+      <webElementGuid>92badcc0-422e-46ca-8519-0452ff767539</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/a</value>
+      <webElementGuid>0a7d710a-8a35-4e51-99b2-9f91d125a6af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/favoritos/registro' and (text() = '   Registrar Favorito' or . = '   Registrar Favorito')]</value>
+      <webElementGuid>922b1d85-c522-4a81-98e6-b10b79d0e296</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

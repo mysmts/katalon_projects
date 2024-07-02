@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_O campo E-mail  obrigatrio</name>
+   <tag></tag>
+   <elementGuidId>7c053a05-b7f4-464d-a01e-aaeb200c1f3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='Email-error']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Email-error</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;O campo E-mail é obrigatório.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3c5458c6-9c73-41c7-bf00-a0bd09e227e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Email-error</value>
+      <webElementGuid>7c57f5aa-5e60-4092-a699-98b3ccc3b4e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>O campo E-mail é obrigatório.</value>
+      <webElementGuid>2740b28f-69ef-4e0c-b614-e2afc32a6882</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Email-error&quot;)</value>
+      <webElementGuid>0e44b96d-0624-4393-b5ec-d3df860ac369</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='Email-error']</value>
+      <webElementGuid>13b65bc2-d9e5-4c6a-af59-abb046fbb623</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='loadingForm']/div/div[2]/div/span/span</value>
+      <webElementGuid>a4c3fb0d-4bfa-4763-a820-a7f70f22246b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E-mail'])[1]/following::span[2]</value>
+      <webElementGuid>6eb0bee8-4f8c-48dc-8c9b-b00a9d0a9b3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Formulário de Log In'])[1]/following::span[2]</value>
+      <webElementGuid>6350e5ba-943a-4c79-a538-e46a74953588</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Senha'])[1]/preceding::span[1]</value>
+      <webElementGuid>0e8ed403-a879-4b5f-8837-4ef5eb960b02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='O campo Senha é obrigatório.'])[1]/preceding::span[1]</value>
+      <webElementGuid>a7537314-1e13-4c22-8a2c-b03036533b50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='O campo E-mail é obrigatório.']/parent::*</value>
+      <webElementGuid>e7b0492a-62fc-4e32-b426-99c6a7e3f8f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span/span</value>
+      <webElementGuid>a60f1dae-2858-43b9-8b2d-479545a6bfb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'Email-error' and (text() = 'O campo E-mail é obrigatório.' or . = 'O campo E-mail é obrigatório.')]</value>
+      <webElementGuid>bafc68a7-1b3e-47c2-8e45-f8772e652cd8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

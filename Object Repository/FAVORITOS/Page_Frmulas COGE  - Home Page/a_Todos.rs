@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Todos</name>
+   <tag></tag>
+   <elementGuidId>fc8ad00e-58f1-4902-b07e-7a7660ed35f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div/ul/li[2]/div/span[8]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span:nth-of-type(8) > a.dropdown-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Todos&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>debb295a-a10f-44e1-8f23-251611e901cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/favoritos</value>
+      <webElementGuid>fce703a1-bcce-4960-b7b9-3fddd5bdd0f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>9fdbe033-0094-45ac-884d-e61fe30ddbd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Todos</value>
+      <webElementGuid>524993b1-40a4-48c9-8a6c-518688a281f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;app-header navbar-md white box-shadow&quot;]/div[@class=&quot;navbar text-blue-hover&quot;]/ul[@class=&quot;nav navbar-nav pull-right&quot;]/li[@class=&quot;nav-item dropdown open&quot;]/div[@class=&quot;dropdown-menu pull-right dropdown-menu-scale&quot;]/span[8]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>3dbb1df1-4c2f-4b2b-bd63-511de29cb6f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div/ul/li[2]/div/span[8]/a</value>
+      <webElementGuid>2c10fa93-455d-45da-89b0-5af520d7e300</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Todos')]</value>
+      <webElementGuid>5f353763-d18b-4764-8066-98be6969cece</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Favoritos'])[1]/following::a[1]</value>
+      <webElementGuid>4e3bf05a-5163-4964-b7fe-51a653435e6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Variações'])[1]/following::a[1]</value>
+      <webElementGuid>af8caaeb-ce24-41bc-bcfe-33bdaf923d74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rastreio de Atualizações'])[1]/preceding::a[1]</value>
+      <webElementGuid>43bff722-6dfe-452f-8c76-b0ff033afc31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indicadores'])[2]/preceding::a[1]</value>
+      <webElementGuid>097c1787-1347-4457-87bd-073d6f65a482</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Todos']/parent::*</value>
+      <webElementGuid>fd8eb677-5498-4693-9465-f591b070c07f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/favoritos')]</value>
+      <webElementGuid>96961df7-94fc-4576-bd2b-7153595c3a94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[8]/a</value>
+      <webElementGuid>a94f5f83-77c0-4775-8a7b-21210194c7a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/favoritos' and (text() = ' Todos' or . = ' Todos')]</value>
+      <webElementGuid>7883f658-b853-4858-8d0a-07a0da7b389e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

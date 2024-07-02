@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__fas fa-stream</name>
+   <tag></tag>
+   <elementGuidId>2b5cf26e-3791-4ab9-bf32-5631c769b242</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div/ul/li[2]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.fas.fa-stream</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6fff8c08-2a66-4f50-98e5-67180a96ee49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-stream</value>
+      <webElementGuid>56805b6d-c3cd-47db-829b-c20fc5100a2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;app-header navbar-md white box-shadow&quot;]/div[@class=&quot;navbar text-blue-hover&quot;]/ul[@class=&quot;nav navbar-nav pull-right&quot;]/li[@class=&quot;nav-item dropdown&quot;]/a[@class=&quot;nav-link&quot;]/span[@class=&quot;fas fa-stream&quot;]</value>
+      <webElementGuid>1828ee9b-2bc2-41a1-a7ef-187c449f4463</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div/ul/li[2]/a/span</value>
+      <webElementGuid>eb3aad8a-e559-4f04-830a-a584e19b4a32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span</value>
+      <webElementGuid>9f793859-61a6-4ca5-b155-d9a1e0ecbb97</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

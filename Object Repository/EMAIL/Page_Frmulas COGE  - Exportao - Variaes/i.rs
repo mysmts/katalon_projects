@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i</name>
+   <tag></tag>
+   <elementGuidId>57c5a322-7df2-4ec6-8ba9-b198afec4991</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div[2]/div/div/div[2]/div/div[1]/div[3]/form/div/div[2]/div[1]/div/div[5]/label[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.ui-switch.purple.m-t-xs.m-r > i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>i >> nth=3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>9a543a2a-873e-4855-8ebc-9bdb64f30014</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>3f5171cc-c0d2-49c8-b93b-9295f352bc55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;loadingForm&quot;)/div[@class=&quot;box&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;col-xs-6&quot;]/div[@class=&quot;form-group col-xs-12&quot;]/label[@class=&quot;ui-switch purple m-t-xs m-r&quot;]/i[1]</value>
+      <webElementGuid>fa2ef7ca-ae14-45e5-802b-03d568a774db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='loadingForm']/div/div[2]/div/div/div[5]/label[2]/i</value>
+      <webElementGuid>00eba2ac-8245-42c6-aa9e-266cee847cdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/label[2]/i</value>
+      <webElementGuid>be88d56b-e137-4189-879a-217b47801ac1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

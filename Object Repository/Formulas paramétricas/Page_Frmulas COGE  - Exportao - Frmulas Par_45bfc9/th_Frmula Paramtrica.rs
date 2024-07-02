@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Frmula Paramtrica</name>
+   <tag></tag>
+   <elementGuidId>8695a45c-b8fd-4e25-8fa1-4274f9b2dcc8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='view']/div/div/div[2]/div/div/div[3]/div/div/table/tbody/tr/th[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>th:nth-of-type(3)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=columnheader[name=&quot;Fórmula Paramétrica&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>94e3a962-6db8-4082-93ec-dd058edd3c7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>scope</name>
+      <type>Main</type>
+      <value>col</value>
+      <webElementGuid>982c1a42-20fd-4db4-a549-d6a7cf6b9502</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Fórmula Paramétrica</value>
+      <webElementGuid>7868f5f2-9713-433d-86e0-e5f1a32c7327</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;view&quot;)/div[@class=&quot;padding&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 push-md-2 col-md-8&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;box p-a&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table table-hover m-a-0&quot;]/tbody[1]/tr[1]/th[3]</value>
+      <webElementGuid>d34646e6-38ab-4b45-afee-c4cd94526804</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='view']/div/div/div[2]/div/div/div[3]/div/div/table/tbody/tr/th[3]</value>
+      <webElementGuid>1836d1c6-e5cd-4ee6-8cb9-48994eac92d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nome da Categoria'])[1]/following::th[1]</value>
+      <webElementGuid>76191074-d8b6-446b-b7ac-f0572bee88de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nome'])[1]/following::th[2]</value>
+      <webElementGuid>ba14ee9b-c114-4827-bf99-dc76ec512ddd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/preceding::th[1]</value>
+      <webElementGuid>a93a8ef2-41e1-4b45-a8f3-2b0f44c8912e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Fórmula Paramétrica']/parent::*</value>
+      <webElementGuid>cfa2cdfa-aecb-4b26-901e-425589493b59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[3]</value>
+      <webElementGuid>1f048a67-b64a-404e-989f-0a99ad8a8022</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Fórmula Paramétrica' or . = 'Fórmula Paramétrica')]</value>
+      <webElementGuid>7a6d775b-8720-45da-a16a-eb7a7679bd26</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

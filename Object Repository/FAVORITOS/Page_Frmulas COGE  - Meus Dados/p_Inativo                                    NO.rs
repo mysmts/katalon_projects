@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Inativo                                    NO</name>
+   <tag></tag>
+   <elementGuidId>bebf4679-b28c-4ba4-b13d-aad0bf0c16d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='view']/div/div/div[2]/div/div/div[3]/div[2]/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Inativo: NÃO&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>8fb8e2df-8d41-41bf-a913-776bd9ce2f56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Inativo:
+                                    NÃO
+                            </value>
+      <webElementGuid>2b1b9a68-d0ad-421e-859d-25dd213a42cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;view&quot;)/div[@class=&quot;padding&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 push-md-2 col-md-8&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;col-xs-6&quot;]/div[@class=&quot;box p-a&quot;]/div[@class=&quot;clear&quot;]/p[1]</value>
+      <webElementGuid>6b92e5cc-7ee0-4cb7-b6ea-8ae99ed3e4d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='view']/div/div/div[2]/div/div/div[3]/div[2]/div/div/p</value>
+      <webElementGuid>248fcd11-83c3-46d0-917c-e48c314f0a43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dados de Perfil'])[1]/following::p[1]</value>
+      <webElementGuid>6c860c45-0efa-4195-a38c-647e75b6a2e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SIM'])[2]/following::p[1]</value>
+      <webElementGuid>5254d1af-c404-42c5-a14d-398b63d5d898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/p</value>
+      <webElementGuid>a71dc748-cd8a-4a93-ad78-c8636f2ef919</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '
+                                Inativo:
+                                    NÃO
+                            ' or . = '
+                                Inativo:
+                                    NÃO
+                            ')]</value>
+      <webElementGuid>b3ad5553-b7a8-40f2-978a-b3250ff83c56</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

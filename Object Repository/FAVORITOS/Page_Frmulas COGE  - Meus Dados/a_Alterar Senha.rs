@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Alterar Senha</name>
+   <tag></tag>
+   <elementGuidId>61881e9b-7a9b-4ba6-ab14-aba5e12364a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='view']/div/div/div[2]/div/div/div[2]/ul/li[2]/div/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Alterar Senha&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e83f5391-7c07-4792-9fef-3ff63122a366</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>7ee0b469-662b-40e6-b23a-6d2206cbe9cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/meu-perfil/editar-senha</value>
+      <webElementGuid>421f29a3-98c7-427b-889e-9a07f28db2c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Alterar Senha</value>
+      <webElementGuid>ddceba89-e40d-4ef9-8dea-b55962fe1a41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;view&quot;)/div[@class=&quot;padding&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 push-md-2 col-md-8&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;box-tool&quot;]/ul[@class=&quot;nav&quot;]/li[@class=&quot;nav-item inline dropdown open&quot;]/div[@class=&quot;dropdown-menu dropdown-menu-scale pull-right&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>0ad671a2-6e0c-4346-be51-5f8837332e57</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='view']/div/div/div[2]/div/div/div[2]/ul/li[2]/div/a[2]</value>
+      <webElementGuid>4103dfaa-7a93-40f4-97fd-4701c96b9dad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Alterar Senha')]</value>
+      <webElementGuid>1717ffb0-5bd0-451f-bcb4-bbae5b8af39f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Autorizações'])[1]/following::a[1]</value>
+      <webElementGuid>7ce04cd3-5be1-4235-9b01-34f7fd2ff01b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='* Os seus dados de perfil podem ser modificados, basta clicar no menu de contexto ao lado.'])[1]/following::a[4]</value>
+      <webElementGuid>f75725fd-a85d-4d00-a169-237832899e34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alterar Dados de Perfil'])[1]/preceding::a[1]</value>
+      <webElementGuid>4da0eb7f-ca1c-4c89-bdd8-44adf8721bcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Empresa'])[1]/preceding::a[2]</value>
+      <webElementGuid>1851cebe-a2ce-47a3-afde-50069ae02413</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Alterar Senha']/parent::*</value>
+      <webElementGuid>922f0ee1-a59e-4206-a633-37edfcf6741f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/meu-perfil/editar-senha')]</value>
+      <webElementGuid>1fe2171e-6681-4723-9901-0ee76c613845</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/a[2]</value>
+      <webElementGuid>9dc69af8-5e79-4dfb-bbf1-de3c1b1b9b46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/meu-perfil/editar-senha' and (text() = ' Alterar Senha' or . = ' Alterar Senha')]</value>
+      <webElementGuid>b6e182cf-4e2b-4d64-b41b-6248e8888772</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

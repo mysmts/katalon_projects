@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Imprimir</name>
+   <tag></tag>
+   <elementGuidId>312c9fb3-123a-4e12-940f-99a97dd367f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick='javascript: window.print();']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.nav-item.inline.dropdown.open > div.dropdown-menu.dropdown-menu-scale.pull-right > a.dropdown-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Imprimir&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9ab5fbc6-beaa-4d3b-81e1-c712eb58c488</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>54bc9edc-99c0-4947-a9e9-04481b66c17b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>javascript: window.print();</value>
+      <webElementGuid>016f29d3-075e-4aad-9d33-3cf721131fd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>   Imprimir</value>
+      <webElementGuid>811a41db-c3f2-444b-9c75-3af3c88dfef3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;view&quot;)/div[@class=&quot;padding&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 push-md-2 col-md-8&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;box-tool hidden-xs-down no-print&quot;]/ul[@class=&quot;nav&quot;]/li[@class=&quot;nav-item inline dropdown open&quot;]/div[@class=&quot;dropdown-menu dropdown-menu-scale pull-right&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>a03d0e34-37e7-4585-a8a2-874cf71b176d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick='javascript: window.print();']</value>
+      <webElementGuid>9d32f97b-f0f1-4718-a2f7-a95f521cc181</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='view']/div/div/div[2]/div/div/div[2]/ul/li/div/a</value>
+      <webElementGuid>8ccafe1e-4052-4c2d-9889-d5ca90fd5a1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Imprimir')]</value>
+      <webElementGuid>4c9d43fd-fb1a-45b2-b94f-ab1594b7c43a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exportação - Variações por Período das Fórmulas COGE'])[1]/following::a[2]</value>
+      <webElementGuid>8cf51fa1-aebe-4042-b8dd-4542008017b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ'])[1]/following::a[2]</value>
+      <webElementGuid>e974b335-3144-4753-b2b3-416a0e792b8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fórmulas: Materiais/Serviços. | Período: 01/01/2020 - 01/05/2024.'])[1]/preceding::a[1]</value>
+      <webElementGuid>327f801a-f98a-4791-8498-1b104742f445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tabela de Resultados'])[1]/preceding::a[1]</value>
+      <webElementGuid>2ee89234-4efa-4c78-980d-c9e4b15f3538</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li/div/a</value>
+      <webElementGuid>ecd7371d-f49a-4f29-a62e-fb70ee3ecea0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = '   Imprimir' or . = '   Imprimir')]</value>
+      <webElementGuid>88f42edf-7ff1-47d4-96c9-37dbe5845635</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

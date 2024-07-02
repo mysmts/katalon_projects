@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_()10.00</name>
+   <tag></tag>
+   <elementGuidId>476060a9-55e4-4ec2-be92-631c454d42f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='view']/div/div/div[4]/div/div[2]/div/table/tbody/tr/td/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.clearfix.js-sweetalert > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;($)10.00&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>95eac4f9-607e-4ce4-9c9e-935b6f6ae261</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>($)10.00</value>
+      <webElementGuid>ec3631a8-34a3-4951-8ae5-d3a9f3ed5095</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;view&quot;)/div[@class=&quot;padding&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-8 col-md-2&quot;]/div[@class=&quot;box light lt&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;clear p-a-xs&quot;]/table[@class=&quot;table table-condensed table-striped&quot;]/tbody[1]/tr[1]/td[1]/span[@class=&quot;clearfix js-sweetalert&quot;]/span[1]</value>
+      <webElementGuid>b4b37d3d-ddc1-4c66-a360-9f86f144f894</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='view']/div/div/div[4]/div/div[2]/div/table/tbody/tr/td/span/span</value>
+      <webElementGuid>4ab52472-6431-40a2-9e48-8c2d0b962d89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Valores'])[1]/following::span[2]</value>
+      <webElementGuid>f2fb6706-e54a-4943-9858-c7382d181661</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tabela de Referência'])[1]/following::span[2]</value>
+      <webElementGuid>b95fee67-2097-409c-ac6e-828124ed2071</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deletar'])[1]/preceding::span[1]</value>
+      <webElementGuid>ee28fbe9-7241-4b07-aef8-c44dd3865852</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='($)10.00']/parent::*</value>
+      <webElementGuid>64159288-77ee-44b5-bce7-e8d243e547bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/span/span</value>
+      <webElementGuid>80570838-3092-49b4-967b-e2a6781dfd30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '($)10.00' or . = '($)10.00')]</value>
+      <webElementGuid>97b357ea-a63b-495d-ae21-f0f15fc57fa6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

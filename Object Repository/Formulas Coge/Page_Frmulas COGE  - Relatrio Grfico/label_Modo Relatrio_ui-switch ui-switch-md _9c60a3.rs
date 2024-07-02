@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Modo Relatrio_ui-switch ui-switch-md _9c60a3</name>
+   <tag></tag>
+   <elementGuidId>2456f22e-f807-40be-a7c5-f46409608f3e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='loadingForm']/div/div[2]/div[3]/div/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.ui-switch.ui-switch-md.blue.m-t-xs</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.ui-switch</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>1f517e36-eceb-4590-8bdd-bee130beb69d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-switch ui-switch-md blue m-t-xs</value>
+      <webElementGuid>cc95781a-7cb3-43b9-8b54-7dd4b715cbfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;loadingForm&quot;)/div[@class=&quot;box&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;form-group col-xs-6&quot;]/div[@class=&quot;col-sm-2&quot;]/label[@class=&quot;ui-switch ui-switch-md blue m-t-xs&quot;]</value>
+      <webElementGuid>e2e5eff1-a5b0-4a23-9cfe-faace18c099d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='loadingForm']/div/div[2]/div[3]/div/div/label</value>
+      <webElementGuid>bad70cd9-7cb9-4ca5-891b-56de2200b454</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modo Relatório'])[1]/following::label[1]</value>
+      <webElementGuid>d6e4d253-29af-4772-9c89-e9cd6781404d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-Selecione-'])[2]/following::label[2]</value>
+      <webElementGuid>87b23718-9529-4906-829e-7c75cbfa11b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Número do Processo'])[1]/preceding::label[1]</value>
+      <webElementGuid>81974e37-6f45-4d6f-bc51-fcdc7c1f4a69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ano Inicial'])[1]/preceding::label[2]</value>
+      <webElementGuid>e387180c-99dc-46a8-b019-6c17d8e4a6f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/label</value>
+      <webElementGuid>6aeeef6d-276c-486e-bde8-79099df18521</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,44 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Indicadores/Page_Frmulas COGE  - Relatrio Grfico/i",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "/html/body/div[2]/div/div[2]/div/div/div[2]/div/div/div[3]/form/div/div[2]/div[3]/div[1]/div/label/i",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Variacoes por periodo/Page_Frmulas COGE  - Exportao - Variaes/i",
+      "brokenLocator": "/html/body/div[2]/div/div[2]/div/div/div[2]/div/div[1]/div[3]/form/div/div[2]/div[1]/div/div[2]/label[2]/input/i",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//form[@id\u003d\u0027loadingForm\u0027]/div/div[2]/div/div/div[2]/label[2]/i",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/CSv/Page_Frmulas COGE  - Exportao - Variaes/i",
+      "brokenLocator": "/html/body/div[2]/div/div[2]/div/div/div[2]/div/div[1]/div[3]/form/div/div[2]/div[1]/div/div[3]/label[2]/input/i",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//form[@id\u003d\u0027loadingForm\u0027]/div/div[2]/div/div/div[3]/label[2]/i",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/FAVORITOS/Page_Frmulas COGE  - Meus Dados/label_Aceita Divulgaes",
+      "brokenLocator": "/html/body/div[2]/div/div[2]/div/div/div[2]/div/div/div[3]/form/div/div[2]/div[1]/div[1]/div[2]/div/label",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027view\u0027]/div/div/div[2]/div/div/div[3]/div[2]/div/div/p[2]/strong/label",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/FAVORITOS/Page_Frmulas COGE  - Meus Dados/label_Aceita Divulgaes_idRelative.png"
+    }
+  ]
+}

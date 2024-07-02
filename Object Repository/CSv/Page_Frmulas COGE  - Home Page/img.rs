@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>fb833a3d-4b5d-454a-b464-bdae8461f5eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='view']/div/div/div[2]/div/div/div[2]/div/div/span/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span > img[alt=&quot;Logomarca Fórmulas COGE&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=img[name=&quot;Logomarca Fórmulas COGE&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>e8bf22d9-accf-437c-bbc4-85273a9ad9de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cdn.funcoge.org.br/images/forms/logo.png</value>
+      <webElementGuid>767828e2-275e-479e-acb6-0090e9d5f4b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Logomarca Fórmulas COGE</value>
+      <webElementGuid>f8db2829-ba96-4f34-b5ba-dd79ebd701c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Logomarca Fórmulas COGE</value>
+      <webElementGuid>e9c82713-f5c9-4a41-99b1-863b8b1b7dff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;view&quot;)/div[@class=&quot;padding&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 push-md-2 col-md-8&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;box p-a&quot;]/div[@class=&quot;icon&quot;]/span[1]/img[1]</value>
+      <webElementGuid>1cc57378-c1d5-4dc8-be48-94f77723ca71</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='view']/div/div/div[2]/div/div/div[2]/div/div/span/img</value>
+      <webElementGuid>fb255279-50f1-4c6e-bc2c-c6ebddc50645</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Logomarca Fórmulas COGE'])[2]</value>
+      <webElementGuid>034328ea-2bc9-4a99-aa0b-3b7c39d87837</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/img</value>
+      <webElementGuid>8b2d500b-ef2e-452b-9ca9-3a4b627fe274</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://cdn.funcoge.org.br/images/forms/logo.png' and @alt = 'Logomarca Fórmulas COGE' and @title = 'Logomarca Fórmulas COGE']</value>
+      <webElementGuid>e3e173f3-2ab3-4d5f-b448-9eae8f82b433</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

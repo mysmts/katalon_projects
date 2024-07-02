@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_AQUI</name>
+   <tag></tag>
+   <elementGuidId>33e39fc3-e7c9-4fb8-a9d7-2d2786df2794</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='view']/div/div/div[2]/div/div[2]/div[2]/div/div/div/a/strong</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Se esqueceu sua senha clique AQUI, você será redirecionado para a página principal da Fundação COGE.&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>826288c9-40da-4f1f-b16d-b6c0817139e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AQUI</value>
+      <webElementGuid>2ea18d22-edbc-4bb5-94cb-eff478a839c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;view&quot;)/div[@class=&quot;padding&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 push-md-2 col-md-8&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 col-sm-12&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;box p-a&quot;]/div[@class=&quot;clear&quot;]/div[@class=&quot;form-group&quot;]/a[1]/strong[1]</value>
+      <webElementGuid>671b691a-532c-4f21-b05a-a66b5cccc56e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='view']/div/div/div[2]/div/div[2]/div[2]/div/div/div/a/strong</value>
+      <webElementGuid>8f5587ee-67bf-4e21-b898-21911b985398</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset de senha'])[1]/following::strong[1]</value>
+      <webElementGuid>b4140eef-81eb-4e0a-b3eb-196e7abcbafa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Última atualização dos indicadores:'])[1]/preceding::strong[1]</value>
+      <webElementGuid>112d2c9d-247b-4bad-9da6-35e868def0cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maio / 2024'])[1]/preceding::strong[1]</value>
+      <webElementGuid>653b70d9-cb5b-4411-81c7-ca5aaa96ba38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='AQUI']/parent::*</value>
+      <webElementGuid>ada1b35e-d35f-4171-a3a5-847ca2ec1ded</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong</value>
+      <webElementGuid>b1fbc3aa-439a-4f93-976b-adc8a8e15095</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'AQUI' or . = 'AQUI')]</value>
+      <webElementGuid>3c4bdf26-4504-4bf0-8aa9-1f6ae6f78219</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

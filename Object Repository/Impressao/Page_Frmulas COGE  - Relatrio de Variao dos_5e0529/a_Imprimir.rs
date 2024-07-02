@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Imprimir</name>
+   <tag></tag>
+   <elementGuidId>0a2472df-a5b9-4c35-ab95-43199d1e30d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick='javascript: window.print();']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.nav-item.inline.dropdown.open > div.dropdown-menu.dropdown-menu-scale.pull-right > a.dropdown-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Imprimir&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0152ce33-937f-4037-b540-78d144638928</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>1a7b64b9-8945-486a-b0d5-0f34cf5d1f16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>javascript: window.print();</value>
+      <webElementGuid>c5d18318-e840-4f34-9cb8-fa6e45453384</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>   Imprimir</value>
+      <webElementGuid>b414029d-89ac-4114-810e-194ddb0b57e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;view&quot;)/div[@class=&quot;padding&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 push-md-2 col-md-8&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;box-tool hidden-xs-down no-print&quot;]/ul[@class=&quot;nav&quot;]/li[@class=&quot;nav-item inline dropdown open&quot;]/div[@class=&quot;dropdown-menu dropdown-menu-scale pull-right&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>3c9cfbf9-9417-4c35-bbd9-35fc17bfbd9a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick='javascript: window.print();']</value>
+      <webElementGuid>9ffb4fca-ee7d-4e25-bbec-0a07c015793c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='view']/div/div/div[2]/div/div[2]/ul/li/div/a</value>
+      <webElementGuid>cf4dafc1-7700-4515-b974-0d4497efd050</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Imprimir')]</value>
+      <webElementGuid>62b6aed9-c8bb-4b72-b7eb-1fccb7e277e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Token: 1a5074a3-c336-4528-b148-ffa71b31dd94'])[1]/following::a[2]</value>
+      <webElementGuid>f4d12763-de3d-4122-a16f-02d1980aea36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Relatório de Variação dos Materiais'])[1]/following::a[2]</value>
+      <webElementGuid>3a9081cd-8b45-4432-9b5c-589ca4ae6362</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FCM0001 - Acessórios de Cabo de Cobre (Exceto os Materiais com Fórmula Própria)'])[1]/preceding::a[1]</value>
+      <webElementGuid>0af2cb65-ee36-4844-b57e-1e24a05b2146</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detalhes'])[1]/preceding::a[1]</value>
+      <webElementGuid>2d2834c4-c07b-4a87-bd75-34080f0b1dc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li/div/a</value>
+      <webElementGuid>6bf55f61-c4aa-4120-a1ab-51d24cda0140</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = '   Imprimir' or . = '   Imprimir')]</value>
+      <webElementGuid>5537561a-c86d-4775-b6a7-9bfc2628e0c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
